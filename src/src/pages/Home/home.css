@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Fira+Code:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Fira Code', monospace;
+}
+
+.home{
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    margin: 5%;
+}
